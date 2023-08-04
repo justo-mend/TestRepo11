@@ -9,6 +9,10 @@
       "prBodyColumns": ["Package", "Change", "Age", "Adoption", "Passing", "Confidence"]
     },
     {
+      "groupName": "major updates - breaking changes",
+      "matchUpdateTypes": ["major"]
+    },
+    {
       "groupName": "minor and patch",
       "matchUpdateTypes": ["minor", "patch"]
     }
